@@ -1,0 +1,2 @@
+Nome do dispositivo	Identificação da Chave	Chave de recuperação	           Unidade	       Data de carregamento da chave	
+EVERALDOPC	F95EE334	325699-254001-235422-669878-006930-178475-086658-517682	OSV	           Invalid Date
